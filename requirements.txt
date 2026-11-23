@@ -1,0 +1,16 @@
+pandas
+numpy
+scipy
+scikit-learn
+imbalanced-learn
+xgboost
+lightgbm
+scikit-optimize
+shap
+matplotlib
+seaborn
+torch
+transformers
+datasets
+accelerate
+sentencepiece
